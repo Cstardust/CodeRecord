@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++11 -g  -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/color.cpp.o CMakeFiles/main.dir/src/group.cpp.o CMakeFiles/main.dir/src/scene.cpp.o  -o main 

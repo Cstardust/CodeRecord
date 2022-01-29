@@ -1,0 +1,3 @@
+/home/shc/code/sudoku/build/CMakeFiles/rebuild_cache.dir
+/home/shc/code/sudoku/build/CMakeFiles/main.dir
+/home/shc/code/sudoku/build/CMakeFiles/edit_cache.dir
